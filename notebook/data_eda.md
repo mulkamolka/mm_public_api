@@ -1,5 +1,4 @@
 # 공공 API 데이터 분석
----
 
 ### 특징
 
@@ -24,7 +23,6 @@
 
 ## 가격 조사 전통시장 및 대형마트 목록 (2022.06.09 기준)
 
----
 종로구: 광장시장, 통인시장, 롯데백화점 명동본점, 신세계백화점 본점
 
 
@@ -157,19 +155,6 @@ df[:10]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
