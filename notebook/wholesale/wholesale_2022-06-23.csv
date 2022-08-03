@@ -1,4 +1,4 @@
-,item_name,item_code,kind_name,kind_code,rank,rank_code,unit,day1,dpr1
+﻿,item_name,item_code,kind_name,kind_code,rank,rank_code,unit,day1,dpr1
 0,쌀,111,일반계(20kg),01,상품,04,20kg,2022-06-23,"44,500"
 1,쌀,111,일반계(20kg),01,중품,05,20kg,2022-06-23,"41,000"
 2,찹쌀,112,일반계(40kg),01,중품,05,40kg,2022-06-23,"97,800"

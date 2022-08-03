@@ -1,3 +1,0 @@
-"""
-mysql db connection
-"""
